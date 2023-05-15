@@ -1,4 +1,3 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/rick-ldwk/]
 
 
 # Hi,
