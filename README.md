@@ -1,2 +1,2 @@
 # Hi,
-my name is Rick.
+my name is Rick and i'm a frontend developer.
