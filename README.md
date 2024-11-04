@@ -1,7 +1,7 @@
 
 
 # Hi,
-my name is Rick and i'm a frontend developer.
+my name is Rick and i'm a frontend developer, EDM producer & record label owner.
 
 # Other
 ![status](https://api.statusbadges.me/badge/status/432568500905705473?simple=true)<br/>
