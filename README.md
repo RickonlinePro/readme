@@ -1,7 +1,7 @@
 
 
 # Hi,
-my name is Rick and i'm a frontend developer, EDM producer & record label owner.
+my name is Rick and i'm a frontend developer, [EDM producer](https://linktr.ee/ronck) & [record label](https://linktr.ee/crossxcrown) owner.
 
 # Contact me
 [<img align="left" alt="LinkedIn" width="160" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/rick-ldwk/)
